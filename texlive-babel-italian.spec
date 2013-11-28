@@ -1,11 +1,11 @@
-# revision 31823
+# revision 32213
 # category Package
 # catalog-ctan /macros/latex/contrib/babel-contrib/italian
-# catalog-date 2013-10-02 21:45:29 +0200
+# catalog-date 2013-11-22 18:28:56 +0100
 # catalog-license lppl1.3
-# catalog-version 1.3a
+# catalog-version 1.3f
 Name:		texlive-babel-italian
-Version:	1.3a
+Version:	1.3f
 Release:	1
 Summary:	Babel support for Italian text
 Group:		Publishing
