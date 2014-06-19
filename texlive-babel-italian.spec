@@ -1,12 +1,12 @@
-# revision 33027
+# revision 33321
 # category Package
 # catalog-ctan /macros/latex/contrib/babel-contrib/italian
-# catalog-date 2014-02-22 14:27:06 +0100
+# catalog-date 2014-03-29 17:24:56 +0100
 # catalog-license lppl1.3
-# catalog-version 1.3j
+# catalog-version 1.3k
 Name:		texlive-babel-italian
-Version:	1.3j
-Release:	2
+Version:	1.3k
+Release:	1
 Summary:	Babel support for Italian text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/italian
