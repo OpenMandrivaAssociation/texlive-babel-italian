@@ -6,7 +6,7 @@
 # catalog-version 1.3k
 Name:		texlive-babel-italian
 Version:	1.3k
-Release:	3
+Release:	4
 Summary:	Babel support for Italian text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/italian
