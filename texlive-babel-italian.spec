@@ -5,9 +5,9 @@ Summary:	Babel support for Italian text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/italian
 License:	LPPL1.3
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-italian.r62890.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-italian.doc.r62890.tar.xz
-Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-italian.source.r62890.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-italian.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-italian.doc.r%{version}.tar.xz
+Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-italian.source.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
