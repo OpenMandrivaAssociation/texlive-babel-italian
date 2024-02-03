@@ -1,6 +1,6 @@
 Name:		texlive-babel-italian
-Version:	62890
-Release:	2
+Version:	69298
+Release:	1
 Summary:	Babel support for Italian text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-contrib/italian
