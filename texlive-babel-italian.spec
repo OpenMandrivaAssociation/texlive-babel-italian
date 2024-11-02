@@ -1,5 +1,5 @@
 Name:		texlive-babel-italian
-Version:	69298
+Version:	72520
 Release:	1
 Summary:	Babel support for Italian text
 Group:		Publishing
